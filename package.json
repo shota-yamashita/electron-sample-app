@@ -2,7 +2,7 @@
   "name": "electron-sample-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/shota-yamashita/electron-sample-app/issues"
   },
-  "homepage": "https://github.com/shota-yamashita/electron-sample-app#readme"
+  "homepage": "https://github.com/shota-yamashita/electron-sample-app#readme",
+  "devDependencies": {
+    "electron": "^15.1.2"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
 }
