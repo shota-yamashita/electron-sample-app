@@ -1,0 +1,19 @@
+{
+  "name": "electron-sample-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shota-yamashita/electron-sample-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shota-yamashita/electron-sample-app/issues"
+  },
+  "homepage": "https://github.com/shota-yamashita/electron-sample-app#readme"
+}
